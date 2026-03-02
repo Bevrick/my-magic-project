@@ -13,3 +13,4 @@ totalprice = days * money
 
 print(f"Your money {totalprice}")
 # f строки можно переносить в начало и в конец блока
+print('Завершено ')
