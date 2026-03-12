@@ -2,16 +2,16 @@
 	"folders": [
 		{
 			"name": "Project-Create",
-			"path": "create"
+			"path": "../create"
 		}
-	],
+	]
 	"settings": {
 		"editor.fontSize": 14,
 		"editor.renderWhitespace": "selection",
 		"editor.tabSize": 4,
 		"files.autoSave": "onFocusChange",
 		"workbench.iconTheme": "material-icon-theme"
-	},
+	}
 	"extensions": {
 		"recommendations": [
 			"ms-python.python",
