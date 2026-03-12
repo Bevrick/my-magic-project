@@ -2,23 +2,16 @@
 	"folders": [
 		{
 			"name": "Project-Create",
-			"path": "../create"
+			"path": "create"
 		}
-	]
-	"settings": {
-		"editor.fontSize": 14,
-		"editor.renderWhitespace": "selection",
-		"editor.tabSize": 4,
-		"files.autoSave": "onFocusChange",
-		"workbench.iconTheme": "material-icon-theme"
-	}
+	],
+	"settings": {},
 	"extensions": {
 		"recommendations": [
 			"ms-python.python",
 			"ms-python.vscode-pylance",
-			"formulahendry.code-runner",
-			"christian-kohler.path-intellisense",
-			"eamodio.gitlens"
+			"ms-toolsai.jupyter",
+			"formulahendry.code-runner"
 		]
 	}
 }
