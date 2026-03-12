@@ -2,7 +2,7 @@
 	"folders": [
 		{
 			"name": "Project-Create",
-			"path": "../create"
+			"path": "create"
 		}
 	],
 	"settings": {
